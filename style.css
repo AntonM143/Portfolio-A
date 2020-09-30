@@ -1,0 +1,22 @@
+#carousel{
+    object-fit: cover;
+    width: 500px;
+    height: 300px;
+
+}
+.carousel-placement{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+main{
+    margin-top: 7rem;
+}
+.heading{
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+#body{
+    background-color: rgb(241, 167, 237);
+}
